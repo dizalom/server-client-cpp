@@ -1,0 +1,3 @@
+C:/Users/kashi/CLionProjects/ClientC1/cmake-build-debug/CMakeFiles/ClientC1.dir
+C:/Users/kashi/CLionProjects/ClientC1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kashi/CLionProjects/ClientC1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

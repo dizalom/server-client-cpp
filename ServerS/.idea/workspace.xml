@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ServerS" targetName="ServerS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f027240f-c1fe-43bf-aa7c-5a87ebf152f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Yf7A3Ek5QH6txfzJlReJQVMJot" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClientC" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ServerS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ServerS" TARGET_NAME="ServerS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ServerS" RUN_TARGET_NAME="ServerS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f027240f-c1fe-43bf-aa7c-5a87ebf152f0" name="Default Changelist" comment="" />
+      <created>1583321647072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583321647072</updated>
+      <workItem from="1583321649148" duration="2724000" />
+      <workItem from="1583324416677" duration="1049000" />
+      <workItem from="1583325578006" duration="1025000" />
+      <workItem from="1583338461011" duration="230000" />
+      <workItem from="1583341371857" duration="11377000" />
+      <workItem from="1583953255156" duration="45000" />
+      <workItem from="1583958249540" duration="104000" />
+      <workItem from="1583958687654" duration="262000" />
+      <workItem from="1583959093578" duration="383000" />
+      <workItem from="1583959490722" duration="401000" />
+      <workItem from="1583959960350" duration="69000" />
+      <workItem from="1583960254347" duration="170000" />
+      <workItem from="1583960768274" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="503" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583958339109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="503" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583958339109" />
+    <state x="985" y="206" key="FileChooserDialogImpl" timestamp="1583960783964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="985" y="206" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583960783964" />
+    <state width="825" height="264" key="GridCell.Tab.0.bottom" timestamp="1583961045358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="825" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583961045358" />
+    <state width="825" height="264" key="GridCell.Tab.0.center" timestamp="1583961045358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="825" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583961045358" />
+    <state width="825" height="264" key="GridCell.Tab.0.left" timestamp="1583961045358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="825" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583961045358" />
+    <state width="825" height="264" key="GridCell.Tab.0.right" timestamp="1583961045358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="825" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583961045358" />
+    <state x="667" y="284" key="SettingsEditor" timestamp="1583960932148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="284" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583960932148" />
+    <state x="1109" y="489" key="com.intellij.ide.util.TipDialog" timestamp="1583960768586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="489" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583960768586" />
+    <state x="103" y="215" key="run.anything.popup" timestamp="1583959353199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="103" y="215" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583959353199" />
+  </component>
+</project>
